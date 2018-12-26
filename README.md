@@ -1,0 +1,2 @@
+# DBExportDocTool
+使用DBExportDoc将mysql数据表结构导出成word文档
